@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/YX001188660590/Demo-GMSC/_apis/build/status/yuvraj3010.pipelines-java?branchName=master)](https://dev.azure.com/YX001188660590/Demo-GMSC/_build/latest?definitionId=2&branchName=master)
 [![Build Status](https://dev.azure.com/yuvrajdighwara/pipelines-java/_apis/build/status/yuvraj3010.pipelines-java?branchName=master)](https://dev.azure.com/yuvrajdighwara/pipelines-java/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
